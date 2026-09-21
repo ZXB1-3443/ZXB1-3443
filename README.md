@@ -5,3 +5,21 @@
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zabiullahmehdi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zabiullahmehdi@gmail.com) 
 
+## Skills & Learning
+
+**TryHackMe**
+- ✅ Pre Security (completed)
+- 🔄 Cyber Security 101 (in progress)
+
+| Area | Skills |
+|---|---|
+| Networking | OSI/TCP-IP, IP addressing, ports, DNS, HTTP, packet analysis |
+| Linux & Windows | CLI, PowerShell, file permissions, Active Directory basics |
+| Web | Browser/server/request workflow |
+| Cryptography | Hashing, encryption, key exchange |
+| Secure Protocols | TLS, SSH, VPNs |
+| Security Fundamentals | Offensive vs defensive roles, career paths |
+| Tools | Wireshark, Nmap, Metasploit |
+
+## Certifications
+[![TryHackMe Pre Security](certificates/pre-security-certificate.png)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9BZ11YLKEL.pdf)
