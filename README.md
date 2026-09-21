@@ -22,6 +22,5 @@
 | Tools | Wireshark, Nmap, Metasploit |
 
 ## Certifications
-[![TryHackMe Pre Security](certificates/pre-security-certificate.png)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9BZ11YLKEL.pdf)
 <img width="873" height="620" alt="image" src="https://github.com/user-attachments/assets/1df00521-ef53-470c-8684-a846ace0d697" />
 
