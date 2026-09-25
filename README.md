@@ -10,8 +10,8 @@ _**I'm currently working on:**_ SOC/Blue Team skills — Wireshark traffic analy
 ## Skills & Learning
 
 **TryHackMe**
-- ✅ Pre Security (completed)
-- 🔄 Cyber Security 101 (in progress)
+- Pre Security (completed)
+- Cyber Security 101 (in progress)
 
 | Area | Skills |
 |---|---|
