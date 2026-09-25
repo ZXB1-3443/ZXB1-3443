@@ -1,6 +1,6 @@
 # About Me:
 **Aspiring cybersecurity professional | B.Tech CS | Exploring security**<br>
-**I'm currently working on:** SOC/Blue Team skills — Wireshark traffic analysis, Wazuh SIEM home lab, ISC2 CC certification prep<br>**I'm currently learning:** Malware traffic analysis, network forensics, TryHackMe SOC path<br>**I'm looking to collaborate on:** Open-source security tools, CTF writeups, vulnerability assessment projects<br>**Ask me about:** Network traffic analysis, vulnerability assessment, SOC workflows
+_**I'm currently working on:**_ SOC/Blue Team skills — Wireshark traffic analysis, Wazuh SIEM home lab, ISC2 CC certification prep<br> _**I'm currently learning:**_ Malware traffic analysis, network forensics, TryHackMe SOC path<br> _**I'm looking to collaborate on:**_ Open-source security tools, CTF writeups, vulnerability assessment projects<br>
 
 ---
 ## Socials:
