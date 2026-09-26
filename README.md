@@ -39,5 +39,8 @@ _**I'm currently working on:**_ SOC/Blue Team skills — Wireshark traffic analy
 | Defensive Security | SOC fundamentals, digital forensics, incident response, log analysis |
 
 ## Certifications
-<img width="873" height="620" alt="image" src="https://github.com/user-attachments/assets/1df00521-ef53-470c-8684-a846ace0d697" />
+
+| Certificate | Issuer | Completed | Verify |
+|---|---|---|---|
+| ![Pre Security](https://img.shields.io/badge/TryHackMe-Pre%20Security-22c55e?logo=tryhackme&logoColor=white) | TryHackMe | Aug 2026 | [THM-9BZ11YLKEL](https://tryhackme.com/certificate/THM-9BZ11YLKEL) |
 
