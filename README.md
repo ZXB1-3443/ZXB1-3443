@@ -8,7 +8,7 @@
 
 ---
 
-## >> **About me**
+# >> **About me**
 
 _**I'm currently working on:**_ SOC/Blue Team skills — Wireshark traffic analysis, Wazuh SIEM home lab, ISC2 CC certification prep<br>
 _**I'm currently learning:**_ Malware traffic analysis, network forensics, TryHackMe SOC path<br>
@@ -16,7 +16,7 @@ _**I'm looking to collaborate on:**_ Open-source security tools, CTF writeups, v
 
 ---
 
-## >> **Socials**
+# >> **Socials**
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/YOUR_USER_ID)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/zxb)
@@ -25,7 +25,7 @@ _**I'm looking to collaborate on:**_ Open-source security tools, CTF writeups, v
 
 ---
 
-## >> **Skills & Learning**
+# >> **Skills & Learning**
 
 **TryHackMe Progress**
 
@@ -48,7 +48,7 @@ Cyber Security 101 ... ███████░░░  IN PROGRESS
 
 ---
 
-## >> **Certifications**
+# >> **Certifications**
 
 | Certificate | Issuer | Completed | Verify |
 |---|---|---|---|
