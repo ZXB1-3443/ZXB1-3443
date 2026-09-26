@@ -8,30 +8,17 @@
 ░█████████ ░██    ░██ ░██░█████    ░████    ░██████
 ```
 
-<div align="center">
+---
 
-```
-> whoami
-```
+## About Me
 
-</div>
+_**I'm currently working on:**_ SOC/Blue Team skills — Wireshark traffic analysis, Wazuh SIEM home lab, ISC2 CC certification prep
+_**I'm currently learning:**_ Malware traffic analysis, network forensics, TryHackMe SOC path
+_**I'm looking to collaborate on:**_ Open-source security tools, CTF writeups, vulnerability assessment projects
 
 ---
 
-## `root@zxb:~$ cat about.txt`
-
-```
-[+] CURRENTLY WORKING ON  : SOC/Blue Team skills — Wireshark traffic analysis,
-                             Wazuh SIEM home lab, ISC2 CC cert prep
-[+] CURRENTLY LEARNING    : Malware traffic analysis, network forensics,
-                             TryHackMe SOC path
-[+] LOOKING TO COLLABORATE: Open-source security tools, CTF writeups,
-                             vulnerability assessment projects
-```
-
----
-
-## `root@zxb:~$ ls socials/`
+## Socials
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/YOUR_USER_ID)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/zxb)
@@ -40,11 +27,13 @@
 
 ---
 
-## `root@zxb:~$ ./skills.sh --run`
+## Skills & Learning
+
+**TryHackMe Progress**
 
 ```
-[THM] Pre Security ......... [COMPLETED]   ██████████ 100%
-[THM] Cyber Security 101 ... [IN_PROGRESS] ███████░░░  71%  (10/14 modules)
+Pre Security ......... ██████████ 100%  COMPLETED
+Cyber Security 101 ... ███████░░░  71%  IN PROGRESS
 ```
 
 | Area | Skills |
@@ -61,19 +50,8 @@
 
 ---
 
-## `root@zxb:~$ cat certifications.log`
+## Certifications
 
-```
-┌─────────────────────────────────────────────┐
-│  [✓] CREDENTIAL VERIFIED                     │
-└─────────────────────────────────────────────┘
-```
-
-> **[THM]** Pre Security — Learning Path
-> `STATUS: COMPLETED` ✅ | `DATE: Aug 2026` | `DURATION: 19h 10m`
-> 🔗 [Verify: THM-9BZ11YLKEL](https://tryhackme.com/certificate/THM-9BZ11YLKEL)
-
-```
-> _
-```
-
+| Certificate | Issuer | Completed | Verify |
+|---|---|---|---|
+| ![Pre Security](https://img.shields.io/badge/TryHackMe-Pre%20Security-22c55e?logo=tryhackme&logoColor=white) | TryHackMe | Aug 2026 | [THM-9BZ11YLKEL](https://tryhackme.com/certificate/THM-9BZ11YLKEL) |
