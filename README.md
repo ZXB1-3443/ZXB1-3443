@@ -10,9 +10,9 @@
 
 ## >> About me
 
-_**I'm currently working on:**_ SOC/Blue Team skills — Wireshark traffic analysis, Wazuh SIEM home lab, ISC2 CC certification prep
-_**I'm currently learning:**_ Malware traffic analysis, network forensics, TryHackMe SOC path
-_**I'm looking to collaborate on:**_ Open-source security tools, CTF writeups, vulnerability assessment projects
+_**I'm currently working on:**_ SOC/Blue Team skills — Wireshark traffic analysis, Wazuh SIEM home lab, ISC2 CC certification prep<br>
+_**I'm currently learning:**_ Malware traffic analysis, network forensics, TryHackMe SOC path<br>
+_**I'm currently learning:**_ Malware traffic analysis, network forensics, TryHackMe SOC path_**I'm looking to collaborate on:**_ Open-source security tools, CTF writeups, vulnerability assessment projects
 
 ---
 
