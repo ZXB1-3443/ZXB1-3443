@@ -22,6 +22,8 @@ _**I'm currently working on:**_ SOC/Blue Team skills — Wireshark traffic analy
 | Secure Protocols | TLS, SSH, VPNs |
 | Security Fundamentals | Offensive vs defensive roles, career paths |
 | Tools | Wireshark, Nmap, Metasploit |
+| Offensive Tooling | Nmap, Hydra, Gobuster, SQLMap |
+| Defensive Security | SOC fundamentals, digital forensics, incident response, log analysis |
 
 ## Certifications
 <img width="873" height="620" alt="image" src="https://github.com/user-attachments/assets/1df00521-ef53-470c-8684-a846ace0d697" />
