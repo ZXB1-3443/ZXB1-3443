@@ -1,4 +1,7 @@
-# ▄▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄ <br>     ▄█▀ ▀█▄█▀ ██▄██ <br> ▄██▄▄ ██ ██ ██▄█▀ 
+# [0;38;2;170;170;170m███████ ██▄ ▄██ ██████▄[0m
+[0;38;2;170;170;170m   ▄██▀  ▀███▀  ██▄▄▄█▀[0m
+[0;38;2;170;170;170m ▄██▀    ▄███▄  ██▀▀▀██[0m
+[0;38;2;170;170;170m███████ ██▀ ▀██ ██████▀[0m
 ---
 ## About me:
 _**I'm currently working on:**_ SOC/Blue Team skills — Wireshark traffic analysis, Wazuh SIEM home lab, ISC2 CC certification prep<br> _**I'm currently learning:**_ Malware traffic analysis, network forensics, TryHackMe SOC path<br> _**I'm looking to collaborate on:**_ Open-source security tools, CTF writeups, vulnerability assessment projects<br>
