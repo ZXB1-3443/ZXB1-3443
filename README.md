@@ -8,7 +8,7 @@
 
 ---
 
-## >> ┌─┐┌┐ ┌─┐╷ ╷╶┬╴   ┌┬┐┌─╴ <br>├─┤├┴┐│ ││ │ │    │││├╴ ╵<br>╵ ╵└─┘└─┘└─┘ ╵    ╵ ╵└─╴╵
+## >> About me
 
 _**I'm currently working on:**_ SOC/Blue Team skills — Wireshark traffic analysis, Wazuh SIEM home lab, ISC2 CC certification prep
 _**I'm currently learning:**_ Malware traffic analysis, network forensics, TryHackMe SOC path
