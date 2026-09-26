@@ -7,7 +7,6 @@
 
 
 
-
 ## >> **About me**
 
 _**I'm currently working on:**_ SOC/Blue Team skills — Wireshark traffic analysis, Wazuh SIEM home lab, ISC2 CC certification prep<br>
