@@ -6,7 +6,7 @@
 <span style="color:#AAAAAA">▀▀▀▀▀▀▀▀▀ ▀▀▀   ▀▀▀ ▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀ </span></pre>
 
 
----
+
 
 ## >> **About me**
 
@@ -14,7 +14,7 @@ _**I'm currently working on:**_ SOC/Blue Team skills — Wireshark traffic analy
 _**I'm currently learning:**_ Malware traffic analysis, network forensics, TryHackMe SOC path<br>
 _**I'm looking to collaborate on:**_ Open-source security tools, CTF writeups, vulnerability assessment projects
 
----
+
 
 ## >> **Socials**
 
@@ -23,7 +23,7 @@ _**I'm looking to collaborate on:**_ Open-source security tools, CTF writeups, v
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zabiullahmehdi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zabiullahmehdi)
 
----
+
 
 ## >> **Skills & Learning**
 
@@ -46,7 +46,7 @@ Cyber Security 101 ... ███████░░░  IN PROGRESS
 | Offensive Tooling | Nmap, Hydra, Gobuster, SQLMap |
 | Defensive Security | SOC fundamentals, digital forensics, incident response, log analysis |
 
----
+
 
 ## >> **Certifications**
 
